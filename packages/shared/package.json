@@ -1,0 +1,19 @@
+{
+  "name": "@editor/shared",
+  "version": "1.0.0",
+  "description": "公共方法库",
+  "author": "kw",
+  "license": "ISC",
+  "keywords": [],
+  "main": "src/index.ts",
+  "module": "src/index.ts",
+  "scripts": {
+    "test": "vitest -w"
+  },
+  "dependencies": {
+    "ant-design-vue": "3.2.6",
+    "day": "^0.0.2",
+    "md5": "^2.3.0",
+    "vant": "^3.5.3"
+  }
+}
